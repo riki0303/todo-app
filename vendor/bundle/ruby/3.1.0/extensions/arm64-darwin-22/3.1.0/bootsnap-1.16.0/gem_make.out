@@ -1,0 +1,15 @@
+current directory: /Users/kokuboriki/todo-app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/kokuboriki/.rbenv/versions/3.1.3/bin/ruby -I /Users/kokuboriki/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/kokuboriki/todo-app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230219-38051-21icbt sitelibdir\=./.gem.20230219-38051-21icbt clean
+
+current directory: /Users/kokuboriki/todo-app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230219-38051-21icbt sitelibdir\=./.gem.20230219-38051-21icbt
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/kokuboriki/todo-app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230219-38051-21icbt sitelibdir\=./.gem.20230219-38051-21icbt install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230219-38051-21icbt/bootsnap
